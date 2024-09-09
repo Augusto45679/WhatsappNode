@@ -1,2 +1,3 @@
 # WhatsappNode
  
+Basicamente este repo es un bot para whatsapp que usa puppeteers. Nada loco...
